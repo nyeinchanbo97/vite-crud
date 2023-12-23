@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Kyaw Kyaw",
+      "phone": "092347867",
+      "batch": "SwD June",
+      "course": "SWD"
+    },
+    {
+      "id": 1,
+      "name": "Mg Kyaw",
+      "phone": "092347867",
+      "batch": "SwD June",
+      "course": "SWD"
+    },
+    {
+      "id": 1,
+      "name": "Aung Kyaw",
+      "phone": "092347867",
+      "batch": "SwD June",
+      "course": "SWD"
+    },
+    {
+      "id": 1,
+      "name": "Khin Kyaw",
+      "phone": "092347867",
+      "batch": "SwD June",
+      "course": "SWD"
+    }
+  ]
